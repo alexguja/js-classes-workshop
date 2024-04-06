@@ -1,4 +1,4 @@
-## JavaScript Classes - Deep Dive Hands On Workshop
+## JavaScript Classes - Hands On Workshop
 
 This hands-on workshop takes an in-depth look at JavaScript classes. It covers a series of exercies 
 that are designed to help highlight the evolution of classes in JavaScript both before and after ES6.
