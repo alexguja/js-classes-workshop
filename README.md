@@ -13,7 +13,6 @@ This directory contains test suites that are initially failing ❌.
 The participants are required to make changes to the the code to make the tests pass.
 - `src/solutions` - Contains the solutions to the exercises ✅. 
 These should be used as a reference if the participants get stuck, or to compare their solutions to the provided solutions.
-
 - 🚀 Task - Represents a TODO action for the participant.
 - 💡 Hint - Represents a hint to complete a difficult task.
 - 🧪 Test - Represents a unit test.
@@ -28,3 +27,8 @@ These should be used as a reference if the participants get stuck, or to compare
 - Classes with the class Keyword
 - Adding Methods to Existing Classes
 - Subclasses
+
+
+
+## References
+[1] - JavaScript: The Definitive Guide, 7th Edition by David Flanagan
